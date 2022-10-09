@@ -1,7 +1,7 @@
 {
   "main.css": "/ComparativeShoppingFunctionalPrototype/static/css/main.67485e74.chunk.css",
-  "main.js": "/ComparativeShoppingFunctionalPrototype/static/js/main.eb687a13.chunk.js",
-  "main.js.map": "/ComparativeShoppingFunctionalPrototype/static/js/main.eb687a13.chunk.js.map",
+  "main.js": "/ComparativeShoppingFunctionalPrototype/static/js/main.0e317c40.chunk.js",
+  "main.js.map": "/ComparativeShoppingFunctionalPrototype/static/js/main.0e317c40.chunk.js.map",
   "static/css/1.ded887f7.chunk.css": "/ComparativeShoppingFunctionalPrototype/static/css/1.ded887f7.chunk.css",
   "static/js/1.1b588285.chunk.js": "/ComparativeShoppingFunctionalPrototype/static/js/1.1b588285.chunk.js",
   "static/js/1.1b588285.chunk.js.map": "/ComparativeShoppingFunctionalPrototype/static/js/1.1b588285.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.67485e74.chunk.css.map": "/ComparativeShoppingFunctionalPrototype/static/css/main.67485e74.chunk.css.map",
   "static/css/1.ded887f7.chunk.css.map": "/ComparativeShoppingFunctionalPrototype/static/css/1.ded887f7.chunk.css.map",
   "index.html": "/ComparativeShoppingFunctionalPrototype/index.html",
-  "precache-manifest.8942ce0845154c8a88031678b8420a83.js": "/ComparativeShoppingFunctionalPrototype/precache-manifest.8942ce0845154c8a88031678b8420a83.js",
+  "precache-manifest.879f82c161d3b6e458e753907721369a.js": "/ComparativeShoppingFunctionalPrototype/precache-manifest.879f82c161d3b6e458e753907721369a.js",
   "service-worker.js": "/ComparativeShoppingFunctionalPrototype/service-worker.js"
 }
