@@ -13,7 +13,7 @@ const Container = styled.div`
 const Promotion = () => {
     return ( 
         <Container>
-            Super Deal! Free Subscription to spotify for one month with Orders over $50!
+            Super Deal! Free Subscription to Spotify for one month with Orders over $50!
         </Container>
      );
 }

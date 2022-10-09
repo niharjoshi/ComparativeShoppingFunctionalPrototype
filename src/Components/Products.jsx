@@ -135,13 +135,10 @@ const Products = ({searchQry,handleCompareClick, compareItems}) => {
 
             </Filter>
             <Filter>
-            <FilterText>Sort Products:</FilterText>
-            <Select onChange={(e)=>{setSort(e.target.value)}} defaultValue='Newest'>
-                    <Option value='newest'>
-                        Newest
-                    </Option>
-                    <Option value='asc'>Low To High (Price)</Option>
-                    <Option value='desc'>High To Low (Price)</Option>
+            <FilterText>Sort By Price:</FilterText>
+            <Select onChange={(e)=>{setSort(e.target.value)}} defaultValue='Low To High'>
+                    <Option value='asc'>Low To High</Option>
+                    <Option value='desc'>High To Low</Option>
             </Select>
             </Filter>
         </FilterContainer>
