@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.67485e74.chunk.css",
-  "main.js": "/static/js/main.487b70cf.chunk.js",
-  "main.js.map": "/static/js/main.487b70cf.chunk.js.map",
-  "static/css/1.ded887f7.chunk.css": "/static/css/1.ded887f7.chunk.css",
-  "static/js/1.d9daa0a0.chunk.js": "/static/js/1.d9daa0a0.chunk.js",
-  "static/js/1.d9daa0a0.chunk.js.map": "/static/js/1.d9daa0a0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/1.ded887f7.chunk.css.map": "/static/css/1.ded887f7.chunk.css.map",
-  "static/css/main.67485e74.chunk.css.map": "/static/css/main.67485e74.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.93042c21d92bb0b1ca9a1d4e9fe80bc8.js": "/precache-manifest.93042c21d92bb0b1ca9a1d4e9fe80bc8.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/ComparativeShoppingFunctionalPrototype/static/css/main.67485e74.chunk.css",
+  "main.js": "/ComparativeShoppingFunctionalPrototype/static/js/main.487b70cf.chunk.js",
+  "main.js.map": "/ComparativeShoppingFunctionalPrototype/static/js/main.487b70cf.chunk.js.map",
+  "static/css/1.ded887f7.chunk.css": "/ComparativeShoppingFunctionalPrototype/static/css/1.ded887f7.chunk.css",
+  "static/js/1.1b588285.chunk.js": "/ComparativeShoppingFunctionalPrototype/static/js/1.1b588285.chunk.js",
+  "static/js/1.1b588285.chunk.js.map": "/ComparativeShoppingFunctionalPrototype/static/js/1.1b588285.chunk.js.map",
+  "runtime~main.js": "/ComparativeShoppingFunctionalPrototype/static/js/runtime~main.43016c74.js",
+  "runtime~main.js.map": "/ComparativeShoppingFunctionalPrototype/static/js/runtime~main.43016c74.js.map",
+  "static/css/1.ded887f7.chunk.css.map": "/ComparativeShoppingFunctionalPrototype/static/css/1.ded887f7.chunk.css.map",
+  "static/css/main.67485e74.chunk.css.map": "/ComparativeShoppingFunctionalPrototype/static/css/main.67485e74.chunk.css.map",
+  "index.html": "/ComparativeShoppingFunctionalPrototype/index.html",
+  "precache-manifest.cd4fea8f49d66b58d257835b2dafe113.js": "/ComparativeShoppingFunctionalPrototype/precache-manifest.cd4fea8f49d66b58d257835b2dafe113.js",
+  "service-worker.js": "/ComparativeShoppingFunctionalPrototype/service-worker.js"
 }
