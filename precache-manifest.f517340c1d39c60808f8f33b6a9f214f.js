@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ComparativeShoppingFunctionalPrototype/static/js/runtime~main.43016c74.js"
   },
   {
-    "revision": "3e32c77b3240c32826cf872a38cd7deb",
+    "revision": "6c1b9302dc9419d3d33f54310cb2ff8b",
     "url": "/ComparativeShoppingFunctionalPrototype/index.html"
   }
 ];
