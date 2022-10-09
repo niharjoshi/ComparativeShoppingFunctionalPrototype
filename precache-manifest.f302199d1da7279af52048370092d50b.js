@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e035c7e1c77116776989",
+    "revision": "fa8ee8974224a124016e",
     "url": "/ComparativeShoppingFunctionalPrototype/static/css/main.67485e74.chunk.css"
   },
   {
-    "revision": "e035c7e1c77116776989",
-    "url": "/ComparativeShoppingFunctionalPrototype/static/js/main.e035c7e1.chunk.js"
+    "revision": "fa8ee8974224a124016e",
+    "url": "/ComparativeShoppingFunctionalPrototype/static/js/main.fa8ee897.chunk.js"
   },
   {
     "revision": "1b588285ee68e358872f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ComparativeShoppingFunctionalPrototype/static/js/runtime~main.43016c74.js"
   },
   {
-    "revision": "dce9f8c943d72a297fbb4d78fdec49ed",
+    "revision": "87464486818e8d055358f2e0b8dcd3b6",
     "url": "/ComparativeShoppingFunctionalPrototype/index.html"
   }
 ];
